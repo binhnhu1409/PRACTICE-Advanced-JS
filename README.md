@@ -4,10 +4,7 @@
 
 Write Javascript code that prints out (using `console.log`) a sequence of numbers from 1 to 1,000,000 (one million) without blocking the interactions with the browser. For example, while that piece of Javascript is running, mouse, keyboard events etc should work fine and browser doesn't hang.
 
-- Note that if the implementation wrong, while running that code, your CPU usage may reach over 90%
-- Be careful that you may make browser hang while testing. You can quickly close the tab that's running the code to stop it
-
-Write your code in `assignment-1.js` file.
+Solution is in `index.js` of `assignment-1` folder.
 
 ## Assignment 2
 
@@ -21,5 +18,5 @@ Write an ES6 class that does the following:
 
 Countries APIs can be found here: [https://restcountries.com/](https://restcountries.com/)
 
-Write your code in `assignment-2.js` file.
-Hint: You have to use a combination of fetch to get the country array, then use the array methods like `map`, `filter` to get what you want
+Solution is in `index.js` of `assignment-2` folder.
+
